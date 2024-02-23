@@ -53,5 +53,14 @@ For the PhysioNet dataset, please cite:
 }
 ```
 
-If you found this code useful, please cite: ...... TO ADD
+
+If you found this code useful, please cite: 
+```
+@article{ghosheh2024ignite,
+  title={IGNITE: Individualized GeNeration of Imputations in Time-series Electronic health records},
+  author={Ghosheh, Ghadeer O and Li, Jin and Zhu, Tingting},
+  journal={arXiv preprint arXiv:2401.04402},
+  year={2024}
+}
+```
 
